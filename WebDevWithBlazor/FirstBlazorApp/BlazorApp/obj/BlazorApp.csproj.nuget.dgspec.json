@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\FirstBlazorApp\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\FirstBlazorApp\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\FirstBlazorApp\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "c:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\FirstBlazorApp\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\eseeg\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\FirstBlazorApp\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

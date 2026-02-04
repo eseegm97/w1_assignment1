@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4G8SyUNyTWo=",
+  "dgSpecHash": "P24DcYSAbow=",
   "success": true,
-  "projectFilePath": "c:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\eseeg\\OneDrive\\Documents\\School_BYU-I\\cse325\\w1_assignment1\\WebDevWithBlazor\\FirstBlazorApp\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eseeg\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.1\\microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
   ],
